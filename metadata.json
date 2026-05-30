@@ -1,0 +1,6 @@
+{
+  "name": "Modern Tokyo",
+  "description": "An interactive digital portal exploring Tokyo’s futuristic neighborhoods, cyberpunk architecture, neon nightlife hotspots, and unique arcade culture, featuring an interactive isometric 3D cityscape and an AI travel guide helper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
